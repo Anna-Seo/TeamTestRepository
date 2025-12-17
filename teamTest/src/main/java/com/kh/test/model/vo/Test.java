@@ -1,5 +1,0 @@
-package com.kh.test.model.vo;
-
-public class Test {
-	//test
-}
