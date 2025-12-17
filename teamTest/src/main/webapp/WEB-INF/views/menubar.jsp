@@ -7,7 +7,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-   <h1>jeon1로 수정</h1>
+   <h1>jeon1占쏙옙 占쏙옙占쏙옙</h1>
+
+</body>
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+    //collapse!!!
 
 </body>
 </html>
