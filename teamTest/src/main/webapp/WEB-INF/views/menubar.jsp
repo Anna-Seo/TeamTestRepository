@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    //teeeesst1
-    //test2
+    //충돌 발생
 </body>
 </html>
