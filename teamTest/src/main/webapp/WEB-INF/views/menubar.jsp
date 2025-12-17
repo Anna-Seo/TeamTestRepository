@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    //충돌 발생
+    //collapse!!!
 </body>
 </html>
